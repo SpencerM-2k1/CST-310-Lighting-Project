@@ -29,4 +29,4 @@ To execute the program, simply run the `main` executable with the following comm
 
 6) freetype
 
-	sudo apt-get install libfreetype-dev libfreetype6 libfreetype6-dev
+	`sudo apt-get install libfreetype-dev libfreetype6 libfreetype6-dev`
