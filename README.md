@@ -12,7 +12,9 @@ A different path to `freetype2` will likely be required, depending on your opera
 
 ## Run the program
 
-To execute the program, simply run the `main` executable with the following command.
+To execute the program, simply run the `main` executable with the following command:
+
+	./main
 
 
 ## Dependencies
